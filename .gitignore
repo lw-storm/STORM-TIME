@@ -1,0 +1,12 @@
+# 运行时/构建产物
+*.exe
+*.zip
+dist/
+target/
+node_modules/
+data-webview/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
