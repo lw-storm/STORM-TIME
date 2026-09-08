@@ -8,7 +8,11 @@
 
 零账号 · 纯离线 · 无网络请求 · 数据即文件
 
-[下载最新版](https://github.com/lw-storm/STORM-TIME/releases/latest) · [使用说明书](docs/STORM-User-Manual-CN.pdf)
+<br>
+
+<h3><a href="https://github.com/lw-storm/STORM-TIME/releases/latest">⬇️ 下载最新版（Windows）</a></h3>
+
+安装版一路「下一步」 · 便携版解压即用 · <a href="docs/STORM-User-Manual-CN.pdf">使用说明书（PDF）</a>
 
 </div>
 
@@ -58,6 +62,11 @@ STORM 是一款 **本地优先** 的桌面备忘应用。界面形似熟悉的�
 
 - **安装版**（`STORM-vX.X.X-setup.exe`）——双击一路「下一步」，推荐
 - **便携版**（`STORM-vX.X.X-portable.zip`）——解压到任意目录双击即用，卸载＝删除目录
+
+直链下载（Releases 页加载缓慢时用）：
+
+- [STORM-v3.1.0-setup.exe](https://github.com/lw-storm/STORM-TIME/releases/download/v3.1.0/STORM-v3.1.0-setup.exe)
+- [STORM-v3.1.0-portable.zip](https://github.com/lw-storm/STORM-TIME/releases/download/v3.1.0/STORM-v3.1.0-portable.zip)
 
 > 需要 Windows 10 / 11。应用基于系统自带的 WebView2 运行时（多数电脑已预装；安装版检测到缺失会自动补装）。
 
