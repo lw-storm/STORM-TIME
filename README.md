@@ -79,13 +79,13 @@ STORM 是一款 **本地优先** 的桌面备忘应用。界面形似熟悉的�
 
 前往 [**Releases**](https://github.com/lw-storm/STORM-TIME/releases/latest) 页面：
 
-- **安装版**（`STORM-vX.X.X-setup.exe`）——双击一路「下一步」，推荐
-- **便携版**（`STORM-vX.X.X-portable.zip`）——解压到任意目录双击即用，卸载＝删除目录
+- **安装版**（`STORM-setup.exe`）——双击一路「下一步」，推荐
+- **便携版**（`STORM-portable.zip`）——解压到任意目录双击即用，卸载＝删除目录
 
 直链下载（Releases 页加载缓慢时用）：
 
-- [STORM-v3.1.0-setup.exe](https://github.com/lw-storm/STORM-TIME/releases/download/v3.1.0/STORM-v3.1.0-setup.exe)
-- [STORM-v3.1.0-portable.zip](https://github.com/lw-storm/STORM-TIME/releases/download/v3.1.0/STORM-v3.1.0-portable.zip)
+- [STORM-setup.exe（v4.0.0）](https://github.com/lw-storm/STORM-TIME/releases/latest/download/STORM-setup.exe)——直链永久有效，始终最新版
+- [STORM-portable.zip（v4.0.0）](https://github.com/lw-storm/STORM-TIME/releases/latest/download/STORM-portable.zip)——直链永久有效，始终最新版
 
 > 需要 Windows 10 / 11。应用基于系统自带的 WebView2 运行时（多数电脑已预装；安装版检测到缺失会自动补装）。
 
